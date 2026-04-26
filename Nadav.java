@@ -4,7 +4,7 @@ public class Nadav
 	{
 		for (int i=1;i<=10; i++)
 		{
-			System.out.println("Nadav"+i);
+			System.out.println("your name after change"+i);
 		}
 	}
 }
